@@ -1,0 +1,1 @@
+{'RazaoSocial': '2', 'CNPJ': 2, 'TipoDeConta': 'Plus', 'ValorInicialDaConta': 2.0, 'SenhaDoUsuario': '2', 'Transacoes': []}
